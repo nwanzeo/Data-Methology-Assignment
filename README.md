@@ -13,7 +13,8 @@ XYZ Company uses a form on their website to generate leads for marketing purpose
 
 Thus, how do we automatically identify spam emails and move it to the spam folder? 
 
-Looking at some of the emails, we found that they all have the same subject, "feedback form". This is because they all came from the same online form. Consequently, we cannot determine whether a mail is spam or not using the email subject.
+Looking at some of the emails, we found that they all have the same subject, "feedback form". This is because they all came from the same online form. Consequently, we cannot determine whether a mail is spam or not using the email subject. However, the body of the emails revealed that most of the spam messages contain words like; Act Now, Buy, 
+Click here, Order now, free, Unsubscribe, Visit our website, etc. It became obvious that a mail contains one or more of the above words, it is most likely a spam email!
 
 
 ### 2. Analytic Approach

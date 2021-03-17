@@ -1,5 +1,5 @@
 # IBM Data Science Methodology
-Peer-graded Assignment: Final Assignment.
+A Peer-graded Assignment: Final Assignment.
 
 
 ### Topic to apply data science methodology: Email.
